@@ -6,7 +6,7 @@
 
 ![](<../.gitbook/assets/0 (6).png>)
 
-_Mà hình đăng nhập trên web_
+_<div style="Hình đăng nhập trên web: align">center</div>_
 
 #### **2. Khái quát quy trình vận hành và vai trò người dùng phần mềm**
 
